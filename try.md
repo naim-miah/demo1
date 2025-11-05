@@ -6,4 +6,4 @@
 6. rm - Remove files or directories.
 7. rmdir - Remove empty directories.
 8. cp - Copy files or directories.
-9. mv - Move or rename files and 
+9. mv - Move or rename files
